@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Leadership Ki Ladai Pages
 
 You can use the [editor on GitHub](https://github.com/Leadership-Ki-Ladai/Testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
